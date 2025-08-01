@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arpit Pandiya</h1>
-<h4 align="center"><b>A passionate full stack developer from India currently pursuing B.Tech. from M.L.V. Textile & Engineering College, Bhilwara (Raj.)</b></h4>
+<h4 align="center"><b>A passionate Data Engineer from India currently pursuing B.Tech. from M.L.V. Textile & Engineering College, Bhilwara (Raj.)</b></h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpitpandiya&label=Profile%20views&color=0e75b6&style=flat" alt="arpitpandiya" /> </p>
 
