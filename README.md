@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arpit Pandiya</h1>
-<h4 align="center"><b>A passionate Data Engineer from India currently pursuing B.Tech. from M.L.V. Textile & Engineering College, Bhilwara (Raj.)</b></h4>
+<h4 align="center"><b>A data engineer from India who enjoys building end-to-end data pipelines and working with cloud technologies. Passionate about turning raw data into insights and always exploring new tools and techniques.</b></h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpitpandiya&label=Profile%20views&color=0e75b6&style=flat" alt="arpitpandiya" /> </p>
 
