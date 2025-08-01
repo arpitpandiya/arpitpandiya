@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arpitpandiya" alt="arpitpandiya" /></a> </p>
 
-- 🌱 I’m currently learning **React Js and Node Js**
+- 🌱 I’m currently learning **PySpark, Databrick**
 
-- 💬 Ask me about **Javascript**
+- 💬 Ask me about **ADF, ADLS, SQL, Python, Pandas, Numpy, ETL Pipelines**
 
 - 📫 How to reach me **arpitpandiya2003@gmail.com**
 
