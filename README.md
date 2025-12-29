@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **PySpark, Databrick**
 
-- 💬 Ask me about **ADF, ADLS, SQL, Python, Pandas, Numpy, Power BI ETL Pipelines**
+- 💬 Ask me about **ADF, ADLS, SQL, Python, Pandas, Numpy, Power BI, ETL Pipelines**
 
 - 📫 How to reach me **arpitpandiya2003@gmail.com**
 
